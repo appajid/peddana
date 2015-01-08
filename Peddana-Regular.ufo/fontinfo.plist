@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>329</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2012 by Andhrapradesh Society for Knowledge Networks. All rights reserved.</string>
+  <string>Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 1997-2014, SIL International (http://scripts.sil.org/) with Reserved Font Names "Charis" and "SIL".</string>
   <key>descender</key>
   <integer>-635</integer>
   <key>familyName</key>
@@ -37,9 +37,9 @@
   <key>openTypeNameDesignerURL</key>
   <string>Andhrapradesh Society for Knowledge Networks</string>
   <key>openTypeNameLicense</key>
-  <string>GNU Public License 2.0</string>
+  <string>SIL Open Font License, version 1.1</string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://www.gnu.org/copyleft/gpl.html</string>
+  <string>scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
   <string>Appaji Ambarisha Darbha</string>
   <key>openTypeNameManufacturerURL</key>
